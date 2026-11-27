@@ -7,7 +7,6 @@ Error CUDA driver version is insufficient for CUDA runtime version after buildin
 Nvidia Docker: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/nvidia-docker-cuda-driver-version-is-insufficient-for-cuda-runtime-version/192209
 The CMake project reports an error: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/the-cmake-project-reports-an-error-cuda-driver-version-is-insufficient-for-cuda-runtime-version/246554
 "CUDA driver version is insufficient for CUDA runtime version [WSL2, Ubuntu 18.04]",https://forums.developer.nvidia.com/t/cuda-driver-version-is-insufficient-for-cuda-runtime-version-wsl2-ubuntu-18-04/178720
-"nvidia-smi show CUDA Version, but nvcc not found",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
 "NVCC not found, however nvidia-smi shows CUDA",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
 ERROR: nvcc not found when install pycuda on xavier,https://forums.developer.nvidia.com/t/error-nvcc-not-found-when-install-pycuda-on-xavier/217607
 FFMPEG doesn't detect CUDA-capable device [CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected],https://forums.developer.nvidia.com/t/ffmpeg-doesn-t-detect-cuda-capable-device-cuda-error-no-device-no-cuda-capable-device-is-detected/203758
