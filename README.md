@@ -16,6 +16,14 @@ python3 src/fix.py "nvcc not found"
 python3 src/fix.py "CUDA driver version is insufficient for CUDA runtime version"
 ```
 
+Run the tests with:
+
+```bash
+python3 -m unittest discover -s tests -v
+```
+
+The tests check that error messages map to the right guide. They do not verify the fixes on real GPU machines.
+
 ## Guides
 | Error | Guide |
 |---|---|
