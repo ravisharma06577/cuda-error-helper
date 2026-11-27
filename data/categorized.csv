@@ -1,17 +1,17 @@
 category,title,url
-Driver / version mismatch,"CUDA driver version is insufficient for CUDA runtime version [WSL2, Ubuntu 18.04]",
-Driver / version mismatch,Error CUDA driver version is insufficient for CUDA runtime version after building instant-ngp,
-Driver / version mismatch,Nvidia Docker: CUDA driver version is insufficient for CUDA runtime version,
-Driver / version mismatch,The CMake project reports an error: CUDA driver version is insufficient for CUDA runtime version,
-Install problems,CUDA Installer failed,
-Install problems,CUDA install failed,
-Install problems,CUDA installation failed,
-Install problems,"Logs, showing the reason why the CUDA Installer failed?",
-No GPU detected,Cuda error: no CUDA-capable device is detected,
-No GPU detected,FFMPEG doesn't detect CUDA-capable device [CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected],
-No GPU detected,Failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected,
-Not found / path issues,Cuda Libraries are missing in Windows 11 and Cuda 12.2 Toolkit,
-Not found / path issues,ERROR: nvcc not found when install pycuda on xavier,
-Not found / path issues,"NVCC not found, however nvidia-smi shows CUDA",
-Not found / path issues,"nvidia-smi show CUDA Version, but nvcc not found",
+Driver / version mismatch,"CUDA driver version is insufficient for CUDA runtime version [WSL2, Ubuntu 18.04]",https://forums.developer.nvidia.com/t/cuda-driver-version-is-insufficient-for-cuda-runtime-version-wsl2-ubuntu-18-04/178720
+Driver / version mismatch,Error CUDA driver version is insufficient for CUDA runtime version after building instant-ngp,https://forums.developer.nvidia.com/t/error-cuda-driver-version-is-insufficient-for-cuda-runtime-version-after-building-instant-ngp/251253
+Driver / version mismatch,Nvidia Docker: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/nvidia-docker-cuda-driver-version-is-insufficient-for-cuda-runtime-version/192209
+Driver / version mismatch,The CMake project reports an error: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/the-cmake-project-reports-an-error-cuda-driver-version-is-insufficient-for-cuda-runtime-version/246554
+Install problems,CUDA Installer failed,https://forums.developer.nvidia.com/t/cuda-installer-failed/271464
+Install problems,CUDA install failed,https://forums.developer.nvidia.com/t/cuda-install-failed/83671/5
+Install problems,CUDA installation failed,https://forums.developer.nvidia.com/t/cuda-installation-failed/176266
+Install problems,"Logs, showing the reason why the CUDA Installer failed?",https://forums.developer.nvidia.com/t/logs-showing-the-reason-why-the-cuda-installer-failed/154010
+No GPU detected,Cuda error: no CUDA-capable device is detected,https://forums.developer.nvidia.com/t/cuda-error-no-cuda-capable-device-is-detected/143737
+No GPU detected,FFMPEG doesn't detect CUDA-capable device [CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected],https://forums.developer.nvidia.com/t/ffmpeg-doesn-t-detect-cuda-capable-device-cuda-error-no-device-no-cuda-capable-device-is-detected/203758
+No GPU detected,Failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected,https://forums.developer.nvidia.com/t/failed-call-to-cuinit-cuda-error-no-device-no-cuda-capable-device-is-detected/153650
+Not found / path issues,Cuda Libraries are missing in Windows 11 and Cuda 12.2 Toolkit,https://forums.developer.nvidia.com/t/cuda-libraries-are-missing-in-windows-11-and-cuda-12-2-toolkit/267918
+Not found / path issues,ERROR: nvcc not found when install pycuda on xavier,https://forums.developer.nvidia.com/t/error-nvcc-not-found-when-install-pycuda-on-xavier/217607
+Not found / path issues,"NVCC not found, however nvidia-smi shows CUDA",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
+Not found / path issues,"nvidia-smi show CUDA Version, but nvcc not found",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
 Out of memory,cudaErrorMemoryAllocation just after CUDA installation,https://forums.developer.nvidia.com/t/cudaerrormemoryallocation-just-after-cuda-installation/177789

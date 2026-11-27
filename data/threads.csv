@@ -1,17 +1,17 @@
 title,url
-"CUDA Installer failed",
-"Logs, showing the reason why the CUDA Installer failed?",
-"CUDA install failed",
-"CUDA installation failed",
-"Error CUDA driver version is insufficient for CUDA runtime version after building instant-ngp",
-"Nvidia Docker: CUDA driver version is insufficient for CUDA runtime version",
-"The CMake project reports an error: CUDA driver version is insufficient for CUDA runtime version",
-"CUDA driver version is insufficient for CUDA runtime version [WSL2, Ubuntu 18.04]",
-"nvidia-smi show CUDA Version, but nvcc not found",
-"NVCC not found, however nvidia-smi shows CUDA",
-"ERROR: nvcc not found when install pycuda on xavier",
-"FFMPEG doesn't detect CUDA-capable device [CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected]",
-"Failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected",
-"Cuda error: no CUDA-capable device is detected",
-"Cuda Libraries are missing in Windows 11 and Cuda 12.2 Toolkit",
-"cudaErrorMemoryAllocation just after CUDA installation",https://forums.developer.nvidia.com/t/cudaerrormemoryallocation-just-after-cuda-installation/177789
+CUDA Installer failed,https://forums.developer.nvidia.com/t/cuda-installer-failed/271464
+"Logs, showing the reason why the CUDA Installer failed?",https://forums.developer.nvidia.com/t/logs-showing-the-reason-why-the-cuda-installer-failed/154010
+CUDA install failed,https://forums.developer.nvidia.com/t/cuda-install-failed/83671/5
+CUDA installation failed,https://forums.developer.nvidia.com/t/cuda-installation-failed/176266
+Error CUDA driver version is insufficient for CUDA runtime version after building instant-ngp,https://forums.developer.nvidia.com/t/error-cuda-driver-version-is-insufficient-for-cuda-runtime-version-after-building-instant-ngp/251253
+Nvidia Docker: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/nvidia-docker-cuda-driver-version-is-insufficient-for-cuda-runtime-version/192209
+The CMake project reports an error: CUDA driver version is insufficient for CUDA runtime version,https://forums.developer.nvidia.com/t/the-cmake-project-reports-an-error-cuda-driver-version-is-insufficient-for-cuda-runtime-version/246554
+"CUDA driver version is insufficient for CUDA runtime version [WSL2, Ubuntu 18.04]",https://forums.developer.nvidia.com/t/cuda-driver-version-is-insufficient-for-cuda-runtime-version-wsl2-ubuntu-18-04/178720
+"nvidia-smi show CUDA Version, but nvcc not found",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
+"NVCC not found, however nvidia-smi shows CUDA",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
+ERROR: nvcc not found when install pycuda on xavier,https://forums.developer.nvidia.com/t/error-nvcc-not-found-when-install-pycuda-on-xavier/217607
+FFMPEG doesn't detect CUDA-capable device [CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected],https://forums.developer.nvidia.com/t/ffmpeg-doesn-t-detect-cuda-capable-device-cuda-error-no-device-no-cuda-capable-device-is-detected/203758
+Failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected,https://forums.developer.nvidia.com/t/failed-call-to-cuinit-cuda-error-no-device-no-cuda-capable-device-is-detected/153650
+Cuda error: no CUDA-capable device is detected,https://forums.developer.nvidia.com/t/cuda-error-no-cuda-capable-device-is-detected/143737
+Cuda Libraries are missing in Windows 11 and Cuda 12.2 Toolkit,https://forums.developer.nvidia.com/t/cuda-libraries-are-missing-in-windows-11-and-cuda-12-2-toolkit/267918
+cudaErrorMemoryAllocation just after CUDA installation,https://forums.developer.nvidia.com/t/cudaerrormemoryallocation-just-after-cuda-installation/177789
