@@ -13,5 +13,4 @@ No GPU detected,Failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable dev
 Not found / path issues,Cuda Libraries are missing in Windows 11 and Cuda 12.2 Toolkit,https://forums.developer.nvidia.com/t/cuda-libraries-are-missing-in-windows-11-and-cuda-12-2-toolkit/267918
 Not found / path issues,ERROR: nvcc not found when install pycuda on xavier,https://forums.developer.nvidia.com/t/error-nvcc-not-found-when-install-pycuda-on-xavier/217607
 Not found / path issues,"NVCC not found, however nvidia-smi shows CUDA",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
-Not found / path issues,"nvidia-smi show CUDA Version, but nvcc not found",https://forums.developer.nvidia.com/t/nvcc-not-found-however-nvdia-smi-shows-cuda/245685
 Out of memory,cudaErrorMemoryAllocation just after CUDA installation,https://forums.developer.nvidia.com/t/cudaerrormemoryallocation-just-after-cuda-installation/177789
