@@ -7,6 +7,13 @@ A small, dependency-free command-line tool that maps common CUDA setup errors to
 ## Why
 Beginners hit the same CUDA setup errors again and again, and answers are scattered across many forum threads. This repo collects the most common ones in one place, with links to the official docs.
 
+## Install
+
+```bash
+git clone https://github.com/ravisharma06577/cuda-error-helper.git
+cd cuda-error-helper
+```
+
 ## Usage
 Requires Python 3 only.
 
