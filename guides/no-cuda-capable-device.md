@@ -7,6 +7,7 @@
    ```bash
    lspci | grep -i nvidia
    ```
+   If nothing is listed, run `update-pciids` (usually in /sbin) and try again.
 2. Does the driver work?
    ```bash
    nvidia-smi
